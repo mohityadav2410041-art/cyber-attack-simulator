@@ -4,7 +4,7 @@ def brute_force_attack(correct_password):
 
     print("\nStarting Brute Force Attack...")
 
-    chars = "abcdefghijklmnopqrstuvwxyz1234567890"
+    chars = "abcdefghijklmnopqrstuvwxyz1234567890!@#$%^&*()-_{}[]:';<>,./?"
 
     attempts = 0
 
