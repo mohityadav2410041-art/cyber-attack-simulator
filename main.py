@@ -14,7 +14,7 @@ def menu():
 
         if choice == "1":
 
-            password = input("Enter a short password (3 characters only): ")
+            password = input("Enter a password (10 characters only): ")
             brute_force_attack(password)
 
         elif choice == "2":
