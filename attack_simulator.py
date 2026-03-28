@@ -11,16 +11,23 @@ def brute_force_attack(correct_password):
     for c1 in chars:
         for c2 in chars:
             for c3 in chars:
+                for c4 in chars:
+                    for c5 in chars:
+                        for c6 in chars:
+                            for c7 in chars:
+                                for c8 in chars:
+                                    for c9 in chars:
+                                        for c10 in chars:
 
-                guess = c1 + c2 + c3
-                attempts += 1
+                                            guess = c1 + c2 + c3 + c4 + c5 + c6 + c7 + c8 + c9 + c10
+                                            attempts += 1
 
-                print("Trying:", guess)
+                                            print("Trying:", guess)
 
-                if guess == correct_password:
-                    print("\nPassword cracked:", guess)
-                    print("Attempts:", attempts)
-                    return
+                                            if guess == correct_password:
+                                                print("\nPassword cracked:", guess)
+                                                print("Attempts:", attempts)
+                                                return
 
     print("Password not found")
 
