@@ -128,7 +128,7 @@ Open Command Prompt and run:
 
 
 
-git clone https://github.com/YOURUSERNAME/cyber-attack-simulator
+git clone https://github.com/mohityadav2410041-art/cyber-attack-simulator.git
 
 
 
@@ -358,136 +358,6 @@ Password: Pass@123
 
 
 
-\## 🚀 How to Upload Project to GitHub
-
-
-
-Follow these steps carefully:
-
-
-
-\---
-
-
-
-\### Step 1: Initialize Git
-
-
-
-git init
-
-
-
-\---
-
-
-
-\### Step 2: Add Files
-
-
-
-git add .
-
-
-
-\---
-
-
-
-\### Step 3: Commit Files
-
-
-
-git commit -m "Cyber Attack Simulator Project"
-
-
-
-\---
-
-
-
-\### Step 4: Create Repository on GitHub
-
-
-
-Go to:
-
-https://github.com
-
-
-
-Click "New Repository"
-
-
-
-Repository name:
-
-cyber-attack-simulator
-
-
-
-Set repository to PUBLIC
-
-
-
-Click "Create Repository"
-
-
-
-\---
-
-
-
-\### Step 5: Connect Local Project to GitHub
-
-
-
-git branch -M main
-
-
-
-git remote add origin https://github.com/YOURUSERNAME/cyber-attack-simulator.git
-
-
-
-\---
-
-
-
-\### Step 6: Push Code
-
-
-
-git push -u origin main
-
-
-
-\---
-
-
-
-\## 📌 Important Submission Note
-
-
-
-Submit ONLY this format:
-
-
-
-https://github.com/YOURUSERNAME/cyber-attack-simulator
-
-
-
-❌ Do NOT submit:
-
-\- Links containing /tree/main
-
-\- Links containing /blob
-
-
-
-\---
-
 
 
 \## 🔐 Ethical Disclaimer
@@ -536,7 +406,7 @@ It must NOT be used for any illegal or unethical activity.
 
 
 
-Your Name
+Mohit
 
 
 
