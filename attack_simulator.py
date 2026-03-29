@@ -11,7 +11,7 @@ def brute_force_attack(correct_password):
     for c1 in chars:
         for c2 in chars:
             for c3 in chars:
-                f
+                
 
                                             guess = c1 + c2 + c3
                                             attempts += 1
