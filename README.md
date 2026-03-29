@@ -2,7 +2,7 @@
 
 
 
-\## 📌 Project Description
+\##  Project Description
 
 
 
@@ -20,7 +20,7 @@ This tool helps users understand:
 
 
 
-⚠️ This project is developed strictly for educational purposes and does NOT perform real cyber attacks.
+ This project is developed strictly for educational purposes and does NOT perform real cyber attacks.
 
 
 
@@ -28,7 +28,7 @@ This tool helps users understand:
 
 
 
-\## 🎯 Objective
+\##  Objective
 
 
 
@@ -40,7 +40,7 @@ The objective of this project is to create awareness about cybersecurity by simu
 
 
 
-\## 🛠️ Technologies Used
+\##  Technologies Used
 
 
 
@@ -56,11 +56,11 @@ The objective of this project is to create awareness about cybersecurity by simu
 
 
 
-\## 📁 Project Structure
+\##  Project Structure
 
 
 
-cyber-attack-simulator/
+oss-audit-24BCY10041/
 
 
 
@@ -88,7 +88,7 @@ requirements.txt → Dependencies (empty)
 
 
 
-\## ⚙️ Installation \& Setup
+\##  Installation \& Setup
 
 
 
@@ -128,7 +128,7 @@ Open Command Prompt and run:
 
 
 
-git clone https://github.com/mohityadav2410041-art/cyber-attack-simulator.git
+git clone https://github.com/mohityadav2410041-art/oss-audit-24BCY10041.git
 
 
 
@@ -140,7 +140,7 @@ git clone https://github.com/mohityadav2410041-art/cyber-attack-simulator.git
 
 
 
-cd cyber-attack-simulator
+cd oss-audit-24BCY10041
 
 
 
@@ -282,7 +282,7 @@ Closes the application
 
 
 
-\## 💡 How It Works
+\##  How It Works
 
 
 
@@ -308,7 +308,7 @@ The system evaluates password strength based on complexity rules.
 
 
 
-\## 💾 Data Files
+\##  Data Files
 
 
 
@@ -326,7 +326,7 @@ You can edit this file to add more passwords.
 
 
 
-\## 🧪 Example Run
+\##  Example Run
 
 
 
@@ -360,7 +360,7 @@ Password: Pass@123
 
 
 
-\## 🔐 Ethical Disclaimer
+\## Ethical Disclaimer
 
 
 
@@ -380,7 +380,7 @@ It must NOT be used for any illegal or unethical activity.
 
 
 
-\## 📈 Features Summary
+\##  Features Summary
 
 
 
@@ -402,7 +402,7 @@ It must NOT be used for any illegal or unethical activity.
 
 
 
-\## 👨‍💻 Author
+\##  Author
 
 
 
@@ -414,7 +414,7 @@ Mohit
 
 
 
-\## 📚 Conclusion
+\##  Conclusion
 
 
 
